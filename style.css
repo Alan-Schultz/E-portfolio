@@ -30,6 +30,11 @@ body {
     color: #333;
 }
 
+.bg-dark {
+    background: #333;
+    color: white;
+}
+
 
 /* Navbar */
 
@@ -197,4 +202,15 @@ aboutme p.lead {
     border-radius: 50%;
     margin: 0 1rem;
     margin-bottom: 2rem;
+}
+
+
+/* Footer*/
+
+footer {
+    padding: 2.5rem;
+}
+
+footer p {
+    text-align: center;
 }
