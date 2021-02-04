@@ -187,21 +187,12 @@ aboutme p.lead {
 
 #work .box {
     background: #fff;
-    flex: 1;
+    flex: 5;
     padding: 3rem;
     margin: 0 3rem;
     border-radius: 10px;
     box-shadow: 2px 2px 5px #d1d1d1;
     font-size: 1.3rem;
-}
-
-#work .box i {
-    color: #fff;
-    padding: .1rem;
-    background: #c24914;
-    border-radius: 50%;
-    margin: 0 1rem;
-    margin-bottom: 2rem;
 }
 
 
@@ -223,35 +214,6 @@ aboutme p.lead {
 #resume h2 {
     text-align: center;
     font-size: 3rem;
-    margin-bottom: 3rem;
-    color: white;
-}
-
-#resume .boxes {
-    display: flex;
-    flex-direction: column;
-}
-
-#resume .box {
-    background: rgba(54, 147, 255, 0.7);
-    display: flex;
-    padding: 2rem;
-    align-items: center;
-    border-radius: 15px;
-}
-
-#resume .box:first-child,
-#resume .box:nth-child(2) {
-    margin-bottom: 3rem;
-}
-
-#resume .box img {
-    border-radius: 50%;
-    margin-right: 2rem;
-}
-
-#resume p {
-    color: #fff;
 }
 
 
